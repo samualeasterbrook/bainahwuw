@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaibaedei.rent-a-dpo.nl/sitemap.xml
